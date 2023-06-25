@@ -1,6 +1,6 @@
 import React from "react";
-import myimg from "./image/maj.jpg";
-import sak from "./image/sak.jpg";
+import logo from "./image/loginlogo.png";
+import mypic from "./image/prince.jpg";
 import Wave from "./image/wave.png";
 import Insta from "@iconscout/react-unicons/icons/uil-instagram";
 import Facebook from "@iconscout/react-unicons/icons/uil-facebook";
@@ -437,7 +437,7 @@ const Home = () => {
                       >
                         {" "}
                         <img
-                          src={myimg}
+                          src={logo}
                           className="rounded-circle shadow-5-strong"
                           alt=""
                           style={{ width: 150, height: 150 }}
@@ -445,8 +445,8 @@ const Home = () => {
                         />
                       </div>
                       <div className="card-body">
-                        <h5 className="fw-bold">Abhinav Tiwari</h5>
-                        <p className="text-muted">Full Stack Developer</p>
+                        <h5 className="fw-bold">....</h5>
+                        <p className="text-muted">....</p>
                         <ul className="list-unstyled mb-0">
                           {" "}
                           <a href="#!" className="px-1">
@@ -479,7 +479,7 @@ const Home = () => {
                       >
                         {" "}
                         <img
-                          src={sak}
+                          src={mypic}
                           className="rounded-circle shadow-5-strong"
                           alt=""
                           style={{ width: 150, height: 150 }}
@@ -487,8 +487,8 @@ const Home = () => {
                         />
                       </div>
                       <div className="card-body">
-                        <h5 className="fw-bold">Sakshi</h5>
-                        <p className="text-muted">Frontend Developer</p>
+                        <h5 className="fw-bold">ARPIT YADAV</h5>
+                        <p className="text-muted">MERN STACK DEVELOPER</p>
                         <ul className="list-unstyled mb-0">
                           {" "}
                           <a href="#!" className="px-1">
@@ -521,7 +521,7 @@ const Home = () => {
                       >
                         {" "}
                         <img
-                          src="https://mdbootstrap.com/img/new/avatars/15.jpg"
+                          src={logo}
                           className="rounded-circle shadow-5-strong"
                           alt=""
                           style={{ width: 150, height: 150 }}
@@ -529,8 +529,8 @@ const Home = () => {
                         />
                       </div>
                       <div className="card-body">
-                        <h5 className="fw-bold">Ayat Black</h5>
-                        <p className="text-muted">Web designer</p>
+                        <h5 className="fw-bold">...</h5>
+                        <p className="text-muted">....</p>
                         <ul className="list-unstyled mb-0">
                           {" "}
                           <a href="#!" className="px-1">

@@ -1,6 +1,6 @@
 import Swal from "sweetalert2";
 import React, { useEffect, useState } from "react";
-import profile from "../main/image/maj.jpg";
+import profile from "../main/image/loginlogo.png";
 import { Formik } from "formik";
 import { TextField, Button } from "@mui/material";
 import app_config from "../../config";
