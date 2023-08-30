@@ -913,7 +913,7 @@ const Home = () => {
         <div className="footer">
       <img src={Wave} alt="" style={{ width: "100%" }} />
       <div className="f-content">
-        <span>Abhinavtiwari17200@gmail.com</span>
+        <span>yadavarpit927@gmail.com</span>
         <div className="f-icons">
           <Insta color="white" size={"3rem"} />
           <Facebook color="white" size={"3rem"} />
